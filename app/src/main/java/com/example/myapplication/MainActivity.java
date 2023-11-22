@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
                 }else{
                     answertext.setText("Нет корней");
                 }
+                aa = "";bb="";cc="";
 
 
 
